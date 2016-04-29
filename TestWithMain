@@ -13,8 +13,7 @@ public class TestWithMain implements Cloneable {
 	public static void main(String args[]) {
 		method();
 		method2();
-		method3();
-		method4();
+	
 	}
 
 	private static void method4() {
